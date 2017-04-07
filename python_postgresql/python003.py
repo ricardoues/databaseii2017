@@ -3,7 +3,7 @@ import pandas as pd
 
 
 ## Create engine: engine
-engine = create_engine('postgresql+psycopg2://mate:dataBASE**345**@localhost/ricardodellstore')
+engine = create_engine('postgresql+psycopg2://mate:password@localhost/ricardodellstore')
 
 # Open engine in context manager
 # Perform query and save results to DataFrame: df
