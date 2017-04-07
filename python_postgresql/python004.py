@@ -4,7 +4,7 @@ import pandas as pd
 
 ## Querying relational databases directly with pandas 
  
-engine = create_engine('postgresql+psycopg2://mate:dataBASE**345**@localhost/ricardodellstore')
+engine = create_engine('postgresql+psycopg2://mate:password@localhost/ricardodellstore')
 
 ## Execute query and store records in DataFrame: df
 df = pd.read_sql_query("SELECT * FROM categories", engine)
