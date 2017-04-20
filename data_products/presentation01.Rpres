@@ -4,7 +4,7 @@ author: Ricardo Ríos
 date: 20 April 2017
 autosize: true
 
-First Slide
+What is a Data Product?
 ========================================================
 
 For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
