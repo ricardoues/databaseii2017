@@ -7,7 +7,7 @@ autosize: true
 What is a Data Product?
 ========================================================
 *  A data product is any App, or software, or presentation, or reproducible report based on data or something that helps people
-analyze a common form of data, like in our package. 
+analyze a common form of data. 
 
 *  In this class, we'll talk about all different sorts of data product, such as how to create a Slidify lecture, how to use our studio presenter, how to create a Shiny App (Shiny creates little web Apps using R), how to use R charts and create interactive graphics, and many other tools for creating impressive data products quickly.
 
